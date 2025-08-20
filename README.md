@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lucas Francisco  
 
-💻 **Full Stack Developer specialized in Node.js & TypeScript** | ☁️ **AWS Cloud Practitioner**  
+💻 **Full Stack Developer specialized in Node.js & TypeScript** | ☁️ **AWS Cloud**  
 
 ---
 
