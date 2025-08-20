@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lucas Gabriel Arnold Francisco  
+# 👋 Hello, I'm Lucas Francisco  
 
 💻 **Full Stack Developer** | 🚀 **Node.js & TypeScript Enthusiast** | ☁️ **Cloud Practitioner (AWS)**  
 
