@@ -1,24 +1,23 @@
-# 👋 Hello, I'm Lucas Francisco  
+# 👋 Hello, I'm Lucas Gabriel Arnold Francisco  
 
-💻 **Full Stack Developer** | 🚀 **Node.js & TypeScript Enthusiast** | ☁️ **Cloud Practitioner (AWS)**  
+💻 **Full Stack Developer specialized in Node.js & TypeScript** | ☁️ **AWS Cloud Practitioner**  
 
 ---
 
 ### 🚀 About Me
-- 🔹 Passionate about **clean architecture**, **DDD** and building **scalable APIs**  
-- 🔹 Experienced with **Node.js, TypeScript, Docker, Prisma, Fastify, Express & PostgreSQL**  
-- 🔹 Knowledge of **cloud computing (AWS)** and modern **DevOps practices**  
-- 🔹 Currently freelancing: building **landing pages**, **integrations** and **complete systems**  
-- 🔹 Always focused on **performance, security and best practices**  
+- 🔹 Specialized in **clean architecture** and **Domain-Driven Design (DDD)**  
+- 🔹 Professional experience with **Node.js, TypeScript, Docker, Prisma, Fastify, Express & PostgreSQL**  
+- 🔹 Knowledge of **cloud computing (AWS)** and modern deployment strategies  
+- 🔹 Freelance projects: **landing pages, API integrations and complete systems**  
+- 🔹 Strong focus on **performance, security and scalability**  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Tech Stack
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -31,9 +30,9 @@
 ---
 
 ### 📌 Featured Projects
-- 🛒 [**Seller Max**](https://github.com/lucasfrancisc0/seller-max-backend) – Back-end in **Node.js, TypeScript, Prisma & Fastify**, integrated with **Mercado Livre API**  
-- 🛡️ [**CuidaTech**](#) – IT consulting project focused on **preventive monitoring** and **digital education**  
-- ⚡ Personal Projects – APIs, CLI tools, automation scripts and more...  
+- 🛒 [**Seller Max**](https://github.com/lucasfrancisc0/seller-max-backend) – Back-end built with **Node.js, TypeScript, Prisma & Fastify**, integrated with **Mercado Livre API**  
+- 🛡️ **CuidaTech** – IT consulting initiative focused on **preventive monitoring** and **digital education**  
+- ⚡ Other projects – APIs, CLI tools, automation scripts and more...  
 
 ---
 
@@ -48,5 +47,4 @@
 
 ---
 
-✨ _“Building solutions with clean code, scalable architecture and real-world impact.”_
-
+✨ _“Building scalable solutions with clean code and real-world impact.”_
